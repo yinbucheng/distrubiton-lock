@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.intellif.distrubiton.lock.distrubitonlock.config.ZookeeperConfig,\
+cn.intellif.distrubiton.lock.distrubitonlock.utils.ApplicationUtils,\
+ cn.intellif.distrubiton.lock.distrubitonlock.core.LockBeanFactoryPointAdvisor
